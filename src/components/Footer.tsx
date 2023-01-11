@@ -2,7 +2,6 @@ import React from "react";
 import "../assets/css/FooterStyle.css";
 import {
   FaFacebook,
-  FaHeart,
   FaHome,
   FaInstagram,
   FaLinkedin,
@@ -38,15 +37,6 @@ const Footer = () => {
                 style={{ color: "#fff", marginRight: "2rem" }}
               />
               maindarkarrohan@yahoo.com
-            </h4>
-          </div>
-          <div className="heart">
-            <h4>
-              <FaHeart
-                size={20}
-                style={{ color: "#fff", marginRight: "2rem" }}
-              />
-              Design And Developed By: RM-Dev's
             </h4>
           </div>
         </div>
