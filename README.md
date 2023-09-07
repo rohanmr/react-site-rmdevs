@@ -2,7 +2,7 @@
 
 It's MY Portfolio Website In React.js.
 
-## Go Live:
+## Go to Live Site:
 
 https://rmdevs.netlify.app/
 
